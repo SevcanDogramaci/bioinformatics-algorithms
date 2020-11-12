@@ -1,6 +1,6 @@
 # bioinformatics-algorithms
 
-The algorithms implemented in the extend of CENG 4217 Bioinformatics Algorithms course.<br>
+The algorithms implemented in the extent of CENG 4217 Bioinformatics Algorithms course.<br>
 Pseudocodes are as follows.
 
 ~~~
