@@ -39,3 +39,20 @@ GibbsSampler(Dna, k, t, N)
       
  return BestMotifs
 ~~~
+
+~~~
+Lloyd Algorithm
+
+Select k arbitrary data points as Centers and then 
+iteratively perform the following steps:
+
+• Centers to Clusters: Assign each data point to 
+the cluster corresponding to its nearest center 
+(ties are broken arbitrarily).
+
+• Clusters to Centers: After the assignment of 
+data points to k clusters, compute new centers as 
+clusters’ center of gravity.
+~~~
+
+
